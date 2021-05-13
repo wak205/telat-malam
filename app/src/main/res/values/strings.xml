@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CapstoneProject</string>
+    <string name="title_apps">Apps</string>
+    <string name="title_search">Search</string>
+    <string name="title_notification">Notification</string>
+    <string name="title_about">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
