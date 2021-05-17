@@ -12,7 +12,7 @@
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:fontFamily="@font/montserrat"
-        android:text="@string/recommendation_class"
+        android:text="Your Class"
         android:textColor="@color/capstone_light_gray_blue"
         android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
@@ -35,7 +35,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        tools:listitem="@layout/list_recommend_course"/>
+        tools:listitem="@layout/list_mycourse_course"/>
 
 
 
