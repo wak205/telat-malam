@@ -1,9 +1,11 @@
-package com.example.capstoneproject
+package com.example.capstoneproject.splashscreen
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.example.capstoneproject.MainActivity
+import com.example.capstoneproject.R
 
 class SplashScreenActivity : AppCompatActivity() {
 
